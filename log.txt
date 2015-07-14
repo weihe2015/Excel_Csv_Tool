@@ -1,0 +1,155 @@
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 358
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 179
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi, da, ko, nl, no, pl, pt-pt, ro, sv]
+source file created successfully!
+The total row number is 2
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi]
+source file created successfully!
+The total row number is 4
+The language set is [de, es, fr, ja, ru, zh-cn, ar, it, pt-br, tr, fi]
+source file created successfully!
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+Input files created successfully
+The total row number is 60
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
+The total row number is 120
+The language set is [de, es, fr, ja, ru, zh-cn, ko, cs, he, tr, pt-br]
+source file created successfully!
